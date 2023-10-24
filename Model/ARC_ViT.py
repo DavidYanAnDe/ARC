@@ -35,7 +35,7 @@ class ARC_adapter(nn.Module):
         if position == 'att':
             nn.init.zeros_(self.adapter_rescale)
         else:
-            nn.init.zeros_(self.adapter_rescale)
+            nn.init.xavier_uniform_(self.adapter_rescale)
         nn.init.zeros_(self.adapter_bias)
 
     def forward(self, x, down_projection, up_projection):
