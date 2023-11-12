@@ -1,6 +1,6 @@
 # Efficient Adaptation of Large Vision Transformer via Adapter Re-Composing (ARC)
 
-This repo is the official implementation of our NeurIPS2023 paper "Efficient Adaptation of Large Vision Transformer via Adapter Re-Composing" ([arXiv](https://arxiv.org/abs/)). 
+This repo is the official implementation of our NeurIPS2023 paper "Efficient Adaptation of Large Vision Transformer via Adapter Re-Composing" ([arXiv](https://arxiv.org/abs/2310.06234)). 
 
 ## Overview/Abstract
 
